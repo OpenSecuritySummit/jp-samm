@@ -1,3 +1,6 @@
 [submodule "notebooks/repos/samm"]
 	path = notebooks/repos/samm
 	url = https://github.com/OWASP/samm.git
+[submodule "notebooks/repos/oss2019"]
+	path = notebooks/repos/oss2019
+	url = https://github.com/OpenSecuritySummit/oss2019.git
