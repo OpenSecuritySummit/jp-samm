@@ -1,0 +1,3 @@
+[submodule "notebooks/repos/samm"]
+	path = notebooks/repos/samm
+	url = https://github.com/OWASP/samm.git
